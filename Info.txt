@@ -4,8 +4,6 @@ Du Hyun Cho
 
 Hyun Kim
 
-Hanbit Chang (Child branch)
-
 Eunae Jang (Dev branch - commit) - mergetest
 
-Jonghwan Choi
+Jonghwan Choi 01739156645
