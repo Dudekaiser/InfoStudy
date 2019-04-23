@@ -2,6 +2,11 @@ Gyumin Lee (2nd Commit)
 
 Du Hyun Cho - 01749318100
 
+Hyun Kim
+
+Hanbit Chang (Child branch)
+My Number is 01577 ********
+
 Eunae Jang (Dev branch - commit) - mergetest
 
 jonghwan Choi
