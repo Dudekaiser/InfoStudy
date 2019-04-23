@@ -1,3 +1,4 @@
 Gyumin Lee (2nd Commit)
 
-Eunae Jang (Dev branch - hallo)
+
+Eunae Jang (Dev branch - commit)
