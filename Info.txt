@@ -1,6 +1,4 @@
 Gyumin Lee (2nd Commit)
 
-Eunae Jang (Dev branch)
 
 Hanbit Chang (Child branch)
-
