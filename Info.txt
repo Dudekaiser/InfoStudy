@@ -1,6 +1,9 @@
 Gyumin Lee (2nd Commit)
 
-Eunae Jang (Dev branch)
+Du Hyun Cho
 
 Hyun Kim
 
+Eunae Jang (Dev branch - commit) - mergetest
+
+Jonghwan Choi
